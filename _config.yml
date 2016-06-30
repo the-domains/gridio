@@ -1,0 +1,14 @@
+layout_spectrum: 0.23332866514101624
+typography_spectrum: 0.8585051156114787
+color:
+  brandStrength: 0.6387025534640998
+  lightness: 0.040319118881598115
+  saturation: 0.03211539960466325
+  rhythmicContrast: 0.8550978705752641
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: gridio
