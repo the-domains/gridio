@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[gridio]]></title>
         <description><![CDATA[gridio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gridio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 16:44:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 30 Jun 2016 16:53:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gridio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Uploads from CNN - YouTube]]></title>
+            <description><![CDATA[<article><h1>Uploads from CNN - YouTube</h1><p>Sign in now to see your channels and recommendations!</p></article>]]></description>
+            <link>https://www.youtube.com/playlist?list=UUupvZG-5ko_eiXAupbDfxWw</link>
+            <guid isPermaLink="false">61d94758-56d1-4b4b-8513-40f02a6534d2</guid>
+            <pubDate>Thu, 30 Jun 2016 16:53:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Uploads from CNN - YouTube]]></title>
+            <description><![CDATA[<article><h1>Uploads from CNN - YouTube</h1><p>Sign in now to see your channels and recommendations!</p></article>]]></description>
+            <link>https://www.youtube.com/playlist?list=UUupvZG-5ko_eiXAupbDfxWw</link>
+            <guid isPermaLink="false">4e18af5a-4b1c-4cc5-aa77-6a7e8f791aee</guid>
+            <pubDate>Thu, 30 Jun 2016 16:53:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?url=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DUU3XTzVzaHQEd30rQbuvCtTQ&src=http%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DUU3XTzVzaHQEd30rQbuvCtTQ&type=text%2Fhtml&key=b7d04c9b404c499eba89ee7072e1c4f7&schema=youtube" width="853" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
