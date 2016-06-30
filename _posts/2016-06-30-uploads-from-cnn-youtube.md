@@ -21,8 +21,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/playlist?list=UUupvZG-5ko_eiXAupbDfxWw'
 title: Uploads from CNN - YouTube
-datePublished: '2016-06-30T16:53:20.899Z'
-dateModified: '2016-06-30T16:44:35.205Z'
+datePublished: '2016-06-30T16:53:24.713Z'
+dateModified: '2016-06-30T16:53:15.527Z'
 starred: false
 sourcePath: _posts/2016-06-30-uploads-from-cnn-youtube.md
 inFeed: true
